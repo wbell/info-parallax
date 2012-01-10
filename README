@@ -2,6 +2,6 @@ Welcome to the readme for the Infographic Parallax project.
 
 The goal of this project is to take an existing infograpahic and make it work with parallax. The js plugin you are supposed to use is included. Make it work on as many browsers as possible with fallbacks when necessary. Make something that is engaging, that will keep people interested. 
 
-Please use this as the original pull request and push to your local repositories. Place your completed works in the labs folder under /contests/2012/scroll-parallax/[gitUsername]
+Please fork this project into your account to create your own copy (just click on the fork button at the top of the page). Place your completed works in the labs folder under /contests/2012/scroll-parallax/[gitUsername]
 Projects will be judged at the end of the month.
 
